@@ -1,0 +1,13 @@
+body{
+    background-image: url("../portfolio/image.jpg");
+    background-size: cover;
+    font-family: cursive;
+    font-size: large;
+    color: navajowhite;
+    font-size: 25px;
+    
+  
+}
+h1{
+    color: rgb(233, 163, 103);
+}
